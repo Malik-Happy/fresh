@@ -1,0 +1,27 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#Switchmode{
+    color: black;
+    padding: 5px;
+    float: right;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid black;
+    height: 50px;
+    width: 120px;
+}
+#heading{
+    text-align: center;
+}
+td:first-child,th:first-child{
+    width: 200px;
+    height: 75px;
+}

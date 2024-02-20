@@ -1,0 +1,53 @@
+
+body{
+    margin: auto;
+}
+.container{
+    margin-top: 150px;
+    margin-left: 150px;
+    height: 300px;
+    width: 450px;
+    text-align: left;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#iphone{
+    float: right;
+    height: 400px;
+    margin-right: 300px;
+    margin-top: -75px;
+    position: absolute;
+    top: 50px;
+    right: 50px; 
+    height: 400px;
+}
+#bluebutton{
+    background-color: rgb(19, 162, 209); 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 40px;
+  font-family: sans-serif;
+}
+#firstbg{
+ max-width: 100%;
+ height: auto;
+ position: absolute;
+    top: 50px;
+    left: 0;
+    max-width: 100%;
+    height: auto;
+}
+#secondbg{
+    max-width: 100%;
+    height: auto;
+}
+
